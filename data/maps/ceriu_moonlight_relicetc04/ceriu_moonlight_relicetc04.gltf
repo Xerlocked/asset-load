@@ -1,0 +1,490 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "babylon.js glTF exporter for 3dsmax 2024 v20240125.3"
+  },
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "translation": [
+        -1.21116637E-08,
+        -1.21116637E-08,
+        1.21116637E-08
+      ],
+      "name": "ceriu_moonlight_relicetc04"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        1.21116637E-08,
+        3.63349919E-08,
+        -1.513958E-08
+      ],
+      "name": "ceriu_moonlight_relicetc04_3"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        1.21116637E-08,
+        3.63349919E-08,
+        -1.21116637E-08
+      ],
+      "name": "ceriu_moonlight_relicetc04_4"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        1.21116637E-08,
+        2.42233273E-08,
+        -1.21116637E-08
+      ],
+      "name": "ceriu_moonlight_relicetc04_5"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        1.21116637E-08,
+        2.42233273E-08,
+        -1.21116637E-08
+      ],
+      "name": "ceriu_moonlight_relicetc04_2"
+    },
+    {
+      "mesh": 4,
+      "translation": [
+        1.21116637E-08,
+        3.027916E-08,
+        -1.21116637E-08
+      ],
+      "name": "ceriu_moonlight_relicetc04_1"
+    },
+    {
+      "mesh": 5,
+      "translation": [
+        1.21116637E-08,
+        2.42233273E-08,
+        -1.21116637E-08
+      ],
+      "name": "ceriu_moonlight_relicetc04_0"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 1,
+            "NORMAL": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 0,
+          "material": 0
+        }
+      ],
+      "name": "ceriu_moonlight_relicetc04_3"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 5,
+            "NORMAL": 6,
+            "TEXCOORD_0": 7
+          },
+          "indices": 4,
+          "material": 0
+        }
+      ],
+      "name": "ceriu_moonlight_relicetc04_4"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 9,
+            "NORMAL": 10,
+            "TEXCOORD_0": 11
+          },
+          "indices": 8,
+          "material": 0
+        }
+      ],
+      "name": "ceriu_moonlight_relicetc04_5"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 13,
+            "NORMAL": 14,
+            "TEXCOORD_0": 15
+          },
+          "indices": 12,
+          "material": 0
+        }
+      ],
+      "name": "ceriu_moonlight_relicetc04_2"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 17,
+            "NORMAL": 18,
+            "TEXCOORD_0": 19
+          },
+          "indices": 16,
+          "material": 0
+        }
+      ],
+      "name": "ceriu_moonlight_relicetc04_1"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 21,
+            "NORMAL": 22,
+            "TEXCOORD_0": 23
+          },
+          "indices": 20,
+          "material": 0
+        }
+      ],
+      "name": "ceriu_moonlight_relicetc04_0"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5123,
+      "count": 30,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 22,
+      "max": [
+        0.0223438218,
+        0.176815927,
+        0.404531419
+      ],
+      "min": [
+        -0.0338025466,
+        -0.04782187,
+        0.369544417
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 264,
+      "componentType": 5126,
+      "count": 22,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 22,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 60,
+      "componentType": 5123,
+      "count": 30,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 528,
+      "componentType": 5126,
+      "count": 22,
+      "max": [
+        0.108559012,
+        0.203162715,
+        0.431655079
+      ],
+      "min": [
+        0.0569549762,
+        -0.0168301128,
+        0.3497722
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 792,
+      "componentType": 5126,
+      "count": 22,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 176,
+      "componentType": 5126,
+      "count": 22,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 120,
+      "componentType": 5123,
+      "count": 48,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1056,
+      "componentType": 5126,
+      "count": 31,
+      "max": [
+        0.4671848,
+        0.145998016,
+        0.397306949
+      ],
+      "min": [
+        0.216088623,
+        -0.0423554853,
+        0.173493788
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1428,
+      "componentType": 5126,
+      "count": 31,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 352,
+      "componentType": 5126,
+      "count": 31,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 216,
+      "componentType": 5123,
+      "count": 48,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1800,
+      "componentType": 5126,
+      "count": 32,
+      "max": [
+        -0.06736433,
+        0.134972453,
+        -0.113467284
+      ],
+      "min": [
+        -0.296460569,
+        -0.07576289,
+        -0.366376758
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2184,
+      "componentType": 5126,
+      "count": 32,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 600,
+      "componentType": 5126,
+      "count": 32,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 312,
+      "componentType": 5123,
+      "count": 84,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2568,
+      "componentType": 5126,
+      "count": 42,
+      "max": [
+        0.581036031,
+        0.253697664,
+        -0.0039078407
+      ],
+      "min": [
+        0.09809701,
+        -0.0922390148,
+        -0.5192453
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3072,
+      "componentType": 5126,
+      "count": 42,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 856,
+      "componentType": 5126,
+      "count": 42,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 480,
+      "componentType": 5123,
+      "count": 90,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3576,
+      "componentType": 5126,
+      "count": 49,
+      "max": [
+        -0.0997632,
+        0.200400874,
+        0.221369073
+      ],
+      "min": [
+        -0.342868716,
+        -0.007803339,
+        0.0183051452
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 4164,
+      "componentType": 5126,
+      "count": 49,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1192,
+      "componentType": 5126,
+      "count": 49,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 660,
+      "name": "bufferViewScalar"
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 660,
+      "byteLength": 4752,
+      "byteStride": 12,
+      "name": "bufferViewFloatVec3"
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 5412,
+      "byteLength": 1584,
+      "byteStride": 8,
+      "name": "bufferViewFloatVec2"
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "ceriu_moonlight_relicetc04.bin",
+      "byteLength": 6996
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9
+      },
+      "doubleSided": true,
+      "name": "ceriu_moonlight_relicetc04_0",
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "extras": {
+        "babylonSeparateCullingPass": false
+      }
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0,
+      "name": "ceriu_moonlight_relicetc01_02.png"
+    }
+  ],
+  "images": [
+    {
+      "uri": "ceriu_moonlight_relicetc01_02.png"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ]
+}
