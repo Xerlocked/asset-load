@@ -1,0 +1,259 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "babylon.js glTF exporter for 3dsmax 2024 v20240125.3"
+  },
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "skin": 0,
+      "mesh": 0,
+      "name": "1handaxe_smallaxe"
+    },
+    {
+      "children": [
+        2
+      ],
+      "translation": [
+        0.0606373176,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.493451923,
+        0.12468902,
+        -0.0171139166,
+        0.860618949
+      ],
+      "name": "dummyweaponrbip01rhand"
+    },
+    {
+      "children": [
+        3
+      ],
+      "translation": [
+        0.0111375889,
+        -4.541874E-09,
+        -0.006501161
+      ],
+      "rotation": [
+        1.5067485E-06,
+        -1.23016025E-06,
+        -0.7071062,
+        0.707107365
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        0.9999999
+      ],
+      "name": "bip01rhandweaponr01"
+    },
+    {
+      "translation": [
+        -0.253999949,
+        1.8167496E-08,
+        9.08374744E-08
+      ],
+      "rotation": [
+        -2.793967E-08,
+        -2.01165619E-07,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.00000036,
+        1.00000036,
+        1.00000024
+      ],
+      "name": "bip01rhandweaponr02"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 1,
+            "NORMAL": 2,
+            "TEXCOORD_0": 3,
+            "JOINTS_0": 4,
+            "WEIGHTS_0": 5
+          },
+          "indices": 0,
+          "material": 0
+        }
+      ],
+      "name": "1handaxe_smallaxe"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5123,
+      "count": 468,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 155,
+      "max": [
+        0.133864626,
+        0.0591518,
+        0.07826949
+      ],
+      "min": [
+        0.0609047562,
+        -0.0131698232,
+        -0.0327205844
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1860,
+      "componentType": 5126,
+      "count": 155,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 155,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 155,
+      "type": "VEC4",
+      "name": "accessorJoints"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 155,
+      "type": "VEC4",
+      "name": "accessorWeights"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 3,
+      "type": "MAT4",
+      "name": "accessorInverseBindMatrices"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 936,
+      "name": "bufferViewScalar"
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 936,
+      "byteLength": 3720,
+      "byteStride": 12,
+      "name": "bufferViewFloatVec3"
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 4656,
+      "byteLength": 1240,
+      "byteStride": 8,
+      "name": "bufferViewFloatVec2"
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 5896,
+      "byteLength": 1240,
+      "byteStride": 8,
+      "name": "bufferViewUnsignedShortVec4"
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 7136,
+      "byteLength": 2480,
+      "byteStride": 16,
+      "name": "bufferViewFloatVec4"
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 9616,
+      "byteLength": 192,
+      "name": "bufferViewFloatMat4"
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "1handaxe_smallaxe.bin",
+      "byteLength": 9808
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9
+      },
+      "doubleSided": true,
+      "name": "1handaxe_smallaxe_0",
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "extras": {
+        "babylonSeparateCullingPass": false
+      }
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0,
+      "name": "1handaxe_smallaxe.png"
+    }
+  ],
+  "images": [
+    {
+      "uri": "1handaxe_smallaxe.png"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "skins": [
+    {
+      "inverseBindMatrices": 6,
+      "skeleton": 1,
+      "joints": [
+        1,
+        2,
+        3
+      ],
+      "name": "skeleton #0"
+    }
+  ]
+}
