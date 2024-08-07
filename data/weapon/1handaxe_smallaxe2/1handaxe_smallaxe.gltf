@@ -1,0 +1,466 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "babylon.js glTF exporter for 3dsmax 2024 v20240125.3"
+  },
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "skin": 0,
+      "mesh": 0,
+      "name": "1handaxe_smallaxe"
+    },
+    {
+      "children": [
+        2
+      ],
+      "translation": [
+        -0.0115039386,
+        0.24434799,
+        0.00423707534
+      ],
+      "rotation": [
+        -0.0166450683,
+        -0.822858751,
+        0.00133107475,
+        0.5680007
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        0.99999994
+      ],
+      "name": "hidebip01"
+    },
+    {
+      "children": [
+        3
+      ],
+      "rotation": [
+        -0.5045937,
+        -0.4953637,
+        0.504592657,
+        0.4953648
+      ],
+      "scale": [
+        1.0,
+        0.99999994,
+        1.00000012
+      ],
+      "name": "pelvis"
+    },
+    {
+      "children": [
+        4
+      ],
+      "translation": [
+        0.0238384921,
+        -0.000437933544,
+        -0.003944687
+      ],
+      "rotation": [
+        -0.0392345823,
+        -0.006428961,
+        -0.0106207337,
+        0.9991529
+      ],
+      "scale": [
+        1.0,
+        0.99999994,
+        1.0
+      ],
+      "name": "body2"
+    },
+    {
+      "children": [
+        5
+      ],
+      "translation": [
+        0.0341073163,
+        1.27323869E-06,
+        3.92523871E-05
+      ],
+      "rotation": [
+        -0.01766744,
+        -0.08044944,
+        0.0154759483,
+        0.9964819
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        0.9999999
+      ],
+      "name": "body1"
+    },
+    {
+      "children": [
+        6
+      ],
+      "translation": [
+        0.05182864,
+        -3.95143024E-06,
+        0.008399675
+      ],
+      "rotation": [
+        0.08826651,
+        0.224072859,
+        -0.000465427671,
+        0.9705669
+      ],
+      "scale": [
+        0.99999994,
+        0.9999998,
+        0.99999994
+      ],
+      "name": "neck"
+    },
+    {
+      "children": [
+        7
+      ],
+      "translation": [
+        -2.29152683E-05,
+        -0.008035257,
+        -0.001744776
+      ],
+      "rotation": [
+        0.6582544,
+        -0.713112,
+        0.217048451,
+        -0.105177872
+      ],
+      "scale": [
+        1.00000048,
+        1.00000024,
+        1.00000024
+      ],
+      "name": "bip01rclavicle"
+    },
+    {
+      "children": [
+        8
+      ],
+      "translation": [
+        0.0182165168,
+        -2.42233273E-08,
+        -1.21116637E-08
+      ],
+      "rotation": [
+        0.07139213,
+        0.256885737,
+        0.574466765,
+        0.7738868
+      ],
+      "scale": [
+        0.999999642,
+        0.999999642,
+        0.9999997
+      ],
+      "name": "bip01rupperarm"
+    },
+    {
+      "children": [
+        9
+      ],
+      "translation": [
+        0.06716673,
+        7.26699838E-08,
+        -2.42233273E-08
+      ],
+      "rotation": [
+        -6.504312E-07,
+        -0.207970455,
+        8.340754E-07,
+        0.9781351
+      ],
+      "scale": [
+        1.00000024,
+        1.00000012,
+        1.00000012
+      ],
+      "name": "bip01rforearm"
+    },
+    {
+      "children": [
+        10
+      ],
+      "translation": [
+        0.06063731,
+        -4.23908233E-08,
+        0.0
+      ],
+      "rotation": [
+        0.493451953,
+        0.124688186,
+        -0.0171143487,
+        0.860619068
+      ],
+      "scale": [
+        0.9999999,
+        0.9999999,
+        1.0
+      ],
+      "name": "bip01rhand"
+    },
+    {
+      "children": [
+        11
+      ],
+      "translation": [
+        0.0,
+        7.115602E-08,
+        -1.21116637E-08
+      ],
+      "rotation": [
+        -2.39117071E-07,
+        1.52736931E-07,
+        -5.587936E-08,
+        1.0
+      ],
+      "scale": [
+        0.9999999,
+        1.00000012,
+        0.9999997
+      ],
+      "name": "dummyweaponrbip01rhand"
+    },
+    {
+      "children": [
+        12
+      ],
+      "translation": [
+        0.0111375954,
+        -4.541874E-09,
+        -0.00650116568
+      ],
+      "rotation": [
+        1.512346E-06,
+        -1.19459867E-06,
+        -0.7071062,
+        0.707107365
+      ],
+      "scale": [
+        1.00000024,
+        1.00000012,
+        1.0
+      ],
+      "name": "bip01rhandweaponr01"
+    },
+    {
+      "translation": [
+        -0.253999978,
+        2.42233273E-08,
+        8.478165E-08
+      ],
+      "rotation": [
+        0.0,
+        -2.32364926E-07,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.00000036,
+        1.00000048,
+        1.00000024
+      ],
+      "name": "bip01rhandweaponr02"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 1,
+            "NORMAL": 2,
+            "TEXCOORD_0": 3,
+            "JOINTS_0": 4,
+            "WEIGHTS_0": 5
+          },
+          "indices": 0,
+          "material": 0
+        }
+      ],
+      "name": "1handaxe_smallaxe"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5123,
+      "count": 468,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 155,
+      "max": [
+        -0.037547797,
+        0.237741426,
+        0.06512683
+      ],
+      "min": [
+        -0.09310187,
+        0.166876107,
+        -0.05276463
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1860,
+      "componentType": 5126,
+      "count": 155,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 155,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 155,
+      "type": "VEC4",
+      "name": "accessorJoints"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 155,
+      "type": "VEC4",
+      "name": "accessorWeights"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 12,
+      "type": "MAT4",
+      "name": "accessorInverseBindMatrices"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 936,
+      "name": "bufferViewScalar"
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 936,
+      "byteLength": 3720,
+      "byteStride": 12,
+      "name": "bufferViewFloatVec3"
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 4656,
+      "byteLength": 1240,
+      "byteStride": 8,
+      "name": "bufferViewFloatVec2"
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 5896,
+      "byteLength": 1240,
+      "byteStride": 8,
+      "name": "bufferViewUnsignedShortVec4"
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 7136,
+      "byteLength": 2480,
+      "byteStride": 16,
+      "name": "bufferViewFloatVec4"
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 9616,
+      "byteLength": 768,
+      "name": "bufferViewFloatMat4"
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "1handaxe_smallaxe.bin",
+      "byteLength": 10384
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9
+      },
+      "doubleSided": true,
+      "name": "1handaxe_smallaxe_0",
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "extras": {
+        "babylonSeparateCullingPass": false
+      }
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0,
+      "name": "1handaxe_smallaxe.png"
+    }
+  ],
+  "images": [
+    {
+      "uri": "1handaxe_smallaxe.png"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "skins": [
+    {
+      "inverseBindMatrices": 6,
+      "skeleton": 1,
+      "joints": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "name": "skeleton #0"
+    }
+  ]
+}
